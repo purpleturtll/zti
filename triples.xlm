@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Colour"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Night">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horse">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PersonFunction"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chicken">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Plant"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hotel">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PersonFunction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/We">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/VideoGame"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RadioStation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Came">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure"/>
+  </rdf:Description>
+</rdf:RDF>
