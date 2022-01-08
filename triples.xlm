@@ -2,31 +2,392 @@
 <rdf:RDF
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Red">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Colour"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Search">
+    <rdf:type rdf:resource="http://localhost/Other"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Night">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prominent">
+    <rdf:type rdf:resource="http://localhost/Other"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Horse">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/PersonFunction"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts">
+    <rdf:type rdf:resource="http://localhost/Other"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Chicken">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Plant"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bird"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morse">
+    <rdf:type rdf:resource="http://localhost/Other"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Hotel">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Included">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Democratic">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Located">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/After">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Council">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Known">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Commerce">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Civil">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urbane">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washington">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Founded">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Contemporary">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farsighted">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolver">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inventors">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yorkers">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Envisioned">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Artist">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/English">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Floors">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Studios">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Block">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Began">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Subjects">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Telegraph">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intended">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davis">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Something">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hall">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astronomy">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Originally">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Classes">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Social">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homer">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Needs">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perfected">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metropolitan">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Respectively">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spaces">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pursuits">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Character">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/York">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scientific">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Building">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aj">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rising">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Built">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quarters">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Permanent">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lower">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electric">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Home">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenants">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Demands">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fb">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Near">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Architects">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Offered">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Secretary">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treasury">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Preparing">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Group">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercantile">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Culture">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Purchased">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roster">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/October">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newyork">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Architecture">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Academic">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Languages">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nondenominational">
     <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/PersonFunction"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/We">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/VideoGame"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Former">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/I">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/RadioStation"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Square">
+    <rdf:type rdf:resource="http://localhost/Other"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Came">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure"/>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Well">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winslow">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Direct">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nyu">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Students">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mix">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apartments">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rental">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Engineering">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Devote">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Professions">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/City">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latin">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chemistry">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Investment">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spirit">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Useful">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Would">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Classical">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Responsive">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extraordinary">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mechanical">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Downtown">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Painting">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Literary">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whose">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Institution">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morris">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sculpture">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Commercial">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rented">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greek">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gothic">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hunt">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northeast">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Start">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bustling">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Response">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Handsome">
+    <rdf:type rdf:resource="http://localhost/Other"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In">
+    <rdf:type rdf:resource="http://localhost/Other"/>
   </rdf:Description>
 </rdf:RDF>
