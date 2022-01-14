@@ -52,4 +52,6 @@ def main(file_name):
 
 
 if __name__ == "__main__":
-    main("test.txt")
+    import os.path
+    filename = input("Enter the file name: ")
+    main(filename if os.path.isfile(filename) else "test.txt")
