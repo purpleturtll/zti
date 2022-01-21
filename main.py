@@ -13,7 +13,7 @@ def main(file_name):
     stop_words = set(stopwords.words("english"))
     table = str.maketrans('', '', string.punctuation)
 
-    i = open(file_name, "r")
+    i = open(file_name, "r", encoding="utf8")
     text = i.read()
     text = word_tokenize(text)
     text = [w.translate(table) for w in text]
