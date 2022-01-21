@@ -5,7 +5,6 @@ def main(file_name):
     from nltk import word_tokenize
     from nltk.corpus import stopwords
     from nltk.tokenize import word_tokenize
-    from nltk.stem.porter import PorterStemmer
     import string
     import rdflib
     nltk.download("stopwords")
